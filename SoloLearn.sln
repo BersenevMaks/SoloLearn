@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area_of_a_Circle", "Area_of
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{734472E1-DB6A-4F2B-906A-4883E5D07D5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiple_of_3", "..\..\Multiple_of_3\Multiple_of_3\Multiple_of_3.csproj", "{45AD3249-A20B-4941-A7B4-E143FD4459D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{6EB32FCF-84C5-4CED-8DD9-380FD29C30C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EB32FCF-84C5-4CED-8DD9-380FD29C30C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EB32FCF-84C5-4CED-8DD9-380FD29C30C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45AD3249-A20B-4941-A7B4-E143FD4459D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45AD3249-A20B-4941-A7B4-E143FD4459D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45AD3249-A20B-4941-A7B4-E143FD4459D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45AD3249-A20B-4941-A7B4-E143FD4459D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
