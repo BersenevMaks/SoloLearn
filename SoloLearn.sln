@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Words", "5_Words\5_Words.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_Dancer", "6_Dancer\6_Dancer.csproj", "{D1F531CC-47F9-4A0D-A2DA-7FCE8C0DD5FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_Drawing_Application", "7_Drawing_Application\7_Drawing_Application.csproj", "{6FBEF9CE-8655-48DC-AD2A-B32EC455D50D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D1F531CC-47F9-4A0D-A2DA-7FCE8C0DD5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1F531CC-47F9-4A0D-A2DA-7FCE8C0DD5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1F531CC-47F9-4A0D-A2DA-7FCE8C0DD5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FBEF9CE-8655-48DC-AD2A-B32EC455D50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBEF9CE-8655-48DC-AD2A-B32EC455D50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBEF9CE-8655-48DC-AD2A-B32EC455D50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBEF9CE-8655-48DC-AD2A-B32EC455D50D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
