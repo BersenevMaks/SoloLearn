@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1927
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area_of_a_Circle", "Area_of_a_Circle\Area_of_a_Circle\Area_of_a_Circle.csproj", "{6EB32FCF-84C5-4CED-8DD9-380FD29C30C2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Area_of_a_Circle", "Area_of_a_Circle\Area_of_a_Circle\1_Area_of_a_Circle.csproj", "{6EB32FCF-84C5-4CED-8DD9-380FD29C30C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiply_of_3", "Multiply_of_3\Multiply_of_3.csproj", "{A30AB889-B011-4F03-A08F-DE07BCD64E6F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Multiply_of_3", "Multiply_of_3\2_Multiply_of_3.csproj", "{A30AB889-B011-4F03-A08F-DE07BCD64E6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Level_Points", "Level_Points\3_Level_Points.csproj", "{D63A0032-6110-4F6D-AEBB-CC6DC71B3A3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Social_Network", "Social_Network\4_Social_Network.csproj", "{A9FF1340-A069-4921-8C2B-612C958B5703}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{A30AB889-B011-4F03-A08F-DE07BCD64E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A30AB889-B011-4F03-A08F-DE07BCD64E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A30AB889-B011-4F03-A08F-DE07BCD64E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D63A0032-6110-4F6D-AEBB-CC6DC71B3A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63A0032-6110-4F6D-AEBB-CC6DC71B3A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63A0032-6110-4F6D-AEBB-CC6DC71B3A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63A0032-6110-4F6D-AEBB-CC6DC71B3A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9FF1340-A069-4921-8C2B-612C958B5703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9FF1340-A069-4921-8C2B-612C958B5703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9FF1340-A069-4921-8C2B-612C958B5703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9FF1340-A069-4921-8C2B-612C958B5703}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
